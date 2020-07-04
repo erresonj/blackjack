@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/erres/CLionProjects/Comp322 Assignment2/blackjack.cpp
+blackjack.h
+/cygdrive/c/Users/erres/CLionProjects/Comp322 Assignment2/blackjack.h
+random
+-
+chrono
+-
+
+/cygdrive/c/Users/erres/CLionProjects/Comp322 Assignment2/blackjack.h
+vector
+-
+iostream
+-
+algorithm
+-
+
